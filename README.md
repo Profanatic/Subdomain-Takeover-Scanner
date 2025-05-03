@@ -18,7 +18,7 @@ A comprehensive tool to detect potential subdomain takeover vulnerabilities with
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/subdomain-takeover-scanner.git
+git clone https://github.com/Profanatic/Subdomain-Takeover-Scanner
 
 cd subdomain-takeover-scanner
 
